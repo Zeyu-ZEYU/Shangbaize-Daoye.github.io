@@ -4,7 +4,7 @@ bio:                '推荐算法/网络功能虚拟化/数理金融/TypeScript/
 description:        "拳战攻城狮的博客——分享技术经验，记录学习生活中思索的点点滴滴~"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -38,7 +38,7 @@ disqus_shortname:   damien-blog
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            Shangbaize-Daoye
+twitter:            ShangbaizeDaoye
 facebook:           Shangbaize.Daoye
 github-url:         Shangbaize-Daoye
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
