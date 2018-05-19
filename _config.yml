@@ -1,5 +1,5 @@
 # Site
-title:              拳战攻城狮
+title:              ABS
 bio:                '推荐算法/网络功能虚拟化/数理金融/TypeScript/Golang'
 description:        "拳战攻城狮的博客——分享技术经验，记录学习生活中思索的点点滴滴~"
 reading_time:       true
@@ -8,7 +8,7 @@ logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://Shangbaize-Daoye.github.io
+url:                https://Shangbaize-Daoye.github.io/ABS
 
 # Jekyll
 permalink:          /:title/
