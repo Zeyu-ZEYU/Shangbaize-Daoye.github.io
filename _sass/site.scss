@@ -170,7 +170,7 @@ body {
 	}
 }
 header .entry-meta {
-	display: table; // hide header meta on small screens
+	display: block; // hide header meta on small screens
 	@media #{$notsmall} {
 		display: block;
 	}
