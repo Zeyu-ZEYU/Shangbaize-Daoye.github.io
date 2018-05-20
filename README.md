@@ -23,7 +23,7 @@
 
 ![图片](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526818861626&di=dd0473de6e204a994666eda3ddcbfd8c&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fbaike%2Fpic%2Fitem%2Ffd039245d688d43fe8dbf04d711ed21b0ef43b1a.jpg)
 
-~~~其实更主要的是为了分享“肥宅快乐人生” ( ･´ω`･ )
+Emmmm。。。其实更主要的是为了分享“肥宅快乐人生” ( ･´ω`･ )
 
 ★那么，**[点击此处](https://github.com/Shangbaize-Daoye)**可以访问本人的GitHub主页哦~
 
@@ -31,4 +31,4 @@
 
 若想学习本站的建立方法，请查看**[Jekyll](https://jekyllrb.com/)**的相关指南。
 
-[开始阅读](https://blog.damien.ink/posts)
+**[开始阅读](https://blog.damien.ink/posts)**
