@@ -1,30 +1,34 @@
-# Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
-  
-## `Sorry guys but there will be no update until I buy a new laptop.`
-    
-######(If you like this theme or using it, please give a :star: for motivation.)
+# 博客地址：[https://blog.damien.ink](https://blog.damien.ink)
 
-**[Moon](https://taylantatli.github.io/Moon)** is a minimal, one column jekyll theme.
+这是一个由“**[拳战攻城狮](https://github.com/Shangbaize-Daoye)**”搭建的个人博客，用于分享技术经验，分享历史、地理、文化、艺术、文学等通识性知识，以及记录个人的刍荛之见。
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+# 关于博主
 
-## Preview
+* 微信可联系Shangbaize-Daoye
+* QQ联系或平时私信可以通过邮箱shangbaizexxxdaoye@vip.qq.com进行
+* 重要事情请通过邮箱zeyu.damien.zhang@gmail.com联系
 
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
-![screenshot of Moon](https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png)
+# 关于本站
 
-See a [live version of Moon](https://taylantatli.github.io/Moon) hosted on GitHub.
+本站内容基本由两部分组成：**文章**和**项目**。
 
-## Getting Started
+★文章的内容大致有：
 
-To learn how to install and use this theme check out the [Setup Guide](https://taylantatli.github.io/Moon/moon-theme/) for more information.
+* 技术经验或日常计算机Trick。
+* 通识性知识，历史、政治、经济、文化等个人所学的知识。
+* 学习过程中对一些现象的刍荛之见。
+* 。。。。。。
+
+★项目则是一则GitHub的项目文档，包含项目说明文档和使用文档。
+
+![图片](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526818861626&di=dd0473de6e204a994666eda3ddcbfd8c&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fbaike%2Fpic%2Fitem%2Ffd039245d688d43fe8dbf04d711ed21b0ef43b1a.jpg)
+
+~~~其实更主要的是为了分享“肥宅快乐人生” ( ･´ω`･ )
+
+★那么，**[点击此处](https://github.com/Shangbaize-Daoye)**可以访问本人的GitHub主页哦~
+
+# 开始本站之旅
+
+若想学习本站的建立方法，请查看**[Jekyll](https://jekyllrb.com/)**的相关指南。
+
+[开始阅读](https://blog.damien.ink/posts)
