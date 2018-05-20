@@ -1,6 +1,6 @@
 # 博客地址：[https://blog.damien.ink](https://blog.damien.ink)
 
-这是一个由“**[拳战攻城狮](https://github.com/Shangbaize-Daoye)**”搭建的个人博客，用于分享技术经验，分享历史、地理、文化、艺术、文学等通识性知识，以及记录个人的刍荛之见。
+这是一个由“[拳战攻城狮](https://github.com/Shangbaize-Daoye)”搭建的个人博客，用于分享技术经验，分享历史、地理、文化、艺术、文学等通识性知识，以及记录个人的刍荛之见。
 
 # 关于博主
 
@@ -25,10 +25,10 @@
 
 Emmmm。。。其实更主要的是为了分享“肥宅快乐人生” ( ･´ω`･ )
 
-★那么，**[点击此处](https://github.com/Shangbaize-Daoye)**可以访问本人的GitHub主页哦~
+★那么，[点击此处](https://github.com/Shangbaize-Daoye)可以访问本人的GitHub主页哦~
 
 # 开始本站之旅
 
-若想学习本站的建立方法，请查看**[Jekyll](https://jekyllrb.com/)**的相关指南。
+若想学习本站的建立方法，请查看[Jekyll](https://jekyllrb.com)的相关指南。
 
-**[开始阅读](https://blog.damien.ink/posts)**
+[开始阅读](https://blog.damien.ink/posts)
