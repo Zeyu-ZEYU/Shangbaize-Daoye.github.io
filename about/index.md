@@ -30,7 +30,7 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="~~~其实更主要的是为了分享“肥宅快乐人生” ( ･´ω`･ )" cols=1 %}
 
-★[点击此处]★(https://github.com/Shangbaize-Daoye)可访问本人的GitHub主页~
+★**[点击此处](https://github.com/Shangbaize-Daoye)**★可访问本人的GitHub主页~
 
 # 开始本站之旅
 
