@@ -66,8 +66,8 @@ h3.title a {
 			@include font-rem(16);
 		}
 		@media #{$small} {
-			margin: 0 0px;
-		    padding: 10px 0px;
+			margin: 0 100px;
+		    padding: 10px 100px;
 		}
 	}
 }
