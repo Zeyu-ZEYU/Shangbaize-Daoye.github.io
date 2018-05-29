@@ -5,6 +5,7 @@ comments: false
 ---
 
 <center>这是一个由“<a href="https://github.com/Shangbaize-Daoye"><b>拳战攻城狮</b></a>”搭建的个人博客，用于分享技术经验，分享历史、地理、文化、艺术、文学等通识性知识，以及记录个人的刍荛之见。</center>
+{: .notice}
 
 # 关于博主
 
@@ -15,6 +16,7 @@ comments: false
 # 关于本站
 
 本站内容基本由两部分组成：**文章**和**项目**。
+{: .notice}
 
 ★文章的内容大致有：
 
@@ -35,5 +37,6 @@ comments: false
 # 开始本站之旅
 
 若想学习本站的建立方法，请查看**[Jekyll](https://jekyllrb.com/)**的相关指南。
+{: .notice}
 
 [开始阅读]({{ site.url }}/posts/){: .btn}
