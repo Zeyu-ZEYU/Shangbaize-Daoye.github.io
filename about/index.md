@@ -36,7 +36,7 @@ comments: false
 
 # 开始本站之旅
 
-若想学习本站的建立方法，请查看**[Jekyll](https://jekyllrb.com/)**的相关指南。
+若想学习本站的建立方法，请查看**[Jekyll](https://jekyllrb.com)**的相关指南。
 {: .notice}
 
-[开始阅读]({{ site.url }}/articles/){: .btn}
+[开始阅读]({{ site.url }}/articles){: .btn}

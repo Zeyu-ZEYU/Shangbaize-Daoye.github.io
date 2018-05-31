@@ -1,7 +1,7 @@
 	<nav id="dl-menu" class="dl-menuwrapper" role="navigation">
 		<button class="dl-trigger">打开菜单</button>
 		<ul class="dl-menu">
-			<li><a href="{{ site.url }}/">主页</a></li>
+			<li><a href="{{ site.url }}">主页</a></li>
 			<li>
 				<a href="#">关于博主</a>
 				<ul class="dl-submenu">
@@ -10,7 +10,7 @@
 						<h4>{{ site.title }}</h4>
 						<p>{{ site.description }}</p>
 					</li>
-					<li><a href="{{ site.url }}/about/"><span class="btn btn-inverse">了解更多</span></a></li>
+					<li><a href="{{ site.url }}/about"><span class="btn btn-inverse">了解更多</span></a></li>
 					{% if site.email %}<li>
                         <a href="mailto:{{ site.email }}" target="_blank" rel="noopener noreferrer"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
                     </li>{% endif %}
@@ -86,7 +86,7 @@
 				</ul><!-- /.dl-submenu -->
 			</li>
 			<li>
-				<a href="{{ site.url }}/articles/">文章列表</a>
+				<a href="{{ site.url }}/articles">文章列表</a>
 			</li>
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
@@ -97,7 +97,7 @@
 		    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.title }}</a></li>
 		    {% endfor %}
             <li>
-                <a href="{{ site.url }}/tags/">标签索引</a>
+                <a href="{{ site.url }}/tags">标签索引</a>
             </li>
 		</ul><!-- /.dl-menu -->
 	</nav><!-- /.dl-menuwrapper -->
