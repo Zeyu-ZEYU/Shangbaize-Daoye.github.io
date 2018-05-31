@@ -58,7 +58,11 @@ h3.title a {
 			font-weight: bolder;
             &:hover {
                 color: $red;
-            }
+			}
+			h4 {
+				font-size: 0.88rem;
+				font-weight: bold;
+			}
 		}
 		p {
 			font-weight: lighter;
