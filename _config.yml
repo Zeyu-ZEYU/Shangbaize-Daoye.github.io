@@ -11,7 +11,7 @@ locale:             en_US
 url:                https://blog.damien.ink
 
 # Jekyll
-permalink:          /:categories/:year-:month-:day/:title@damien
+permalink:          /:categories/:year-:month-:day/:title@Damien
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
