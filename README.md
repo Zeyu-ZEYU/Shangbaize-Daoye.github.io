@@ -1,4 +1,4 @@
-# 博客地址：[https://blog.damien.ink](https://blog.damien.ink)
+# 博客地址：[https://blog.zeyu.io](https://blog.zeyu.io)
 
 # 目前此博客源码已托管至Coding.net，需要查看源码的请前往[Coding.net托管处](https://coding.net/u/Shangbaize-Daoye/p/Shangbaize-Daoye.coding.me/git/tree/master)~
 
@@ -33,4 +33,4 @@ Emmmm。。。其实更主要的是为了分享“肥宅快乐人生” ( ･´�
 
 若想学习本站的建立方法，请查看[Jekyll](https://jekyllrb.com)的相关指南。
 
-[开始阅读](https://blog.damien.ink/articles)
+[开始阅读](https://blog.zeyu.io/articles)
