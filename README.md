@@ -1,14 +1,14 @@
 # 博客地址：[https://blog.zeyu.io](https://blog.zeyu.io)
 
-# 目前此博客源码已托管至Coding.net，需要查看源码的请前往[Coding.net托管处](https://coding.net/u/Shangbaize-Daoye/p/Shangbaize-Daoye.coding.me/git/tree/master)~
+# 目前此博客源码已托管至Coding.net。
 
-这是一个由“[Damien丶泽宇](https://github.com/Shangbaize-Daoye)”搭建的个人博客，用于分享技术经验，分享历史、地理、文化、艺术、文学等通识性知识，以及记录个人的刍荛之见。
+这是一个由“[Zeyu丶泽宇](https://github.com/Shangbaize-Daoye)”搭建的个人博客，用于分享技术经验，分享历史、地理、文化、艺术、文学等通识性知识，以及记录个人的刍荛之见。
 
 ## 关于博主
 
 * 微信可联系Shangbaize-Daoye
-* QQ联系或平时私信可以通过邮箱shangbaizexxxdaoye@vip.qq.com进行
-* 重要事情请通过邮箱zeyu.damien.zhang@gmail.com联系
+* QQ联系可通过QQ账号shangbaizexxxdaoye@vip.qq.com
+* **邮件联系请通过邮箱zeyu.zhang@zeyu.io进行**
 
 ## 关于本站
 
