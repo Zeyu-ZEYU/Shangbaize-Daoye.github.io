@@ -1,4 +1,4 @@
-# 博客地址：[https://blog.zeyu.io](https://blog.zeyu.io)
+# 博客地址：[https://blog.zeyu.tw](https://blog.zeyu.tw)
 
 # 目前此博客源码已托管至Coding.net。
 
@@ -7,8 +7,8 @@
 ## 关于博主
 
 * 微信可联系Shangbaize-Daoye
-* QQ联系可通过QQ账号shangbaizexxxdaoye@vip.qq.com
-* **邮件联系请通过邮箱zeyu.zhang@zeyu.io进行**
+* QQ联系可通过QQ账号zhang@zeyu.tw
+* **邮件联系请通过邮箱zhang@zeyu.tw进行**
 
 ## 关于本站
 
@@ -33,4 +33,4 @@ Emmmm。。。其实更主要的是为了分享“肥宅快乐人生” ( ･´�
 
 若想学习本站的建立方法，请查看[Jekyll](https://jekyllrb.com)的相关指南。
 
-[开始阅读](https://blog.zeyu.io/articles)
+[开始阅读](https://blog.zeyu.tw/articles)
