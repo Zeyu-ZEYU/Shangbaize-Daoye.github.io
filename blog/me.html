@@ -1,0 +1,100 @@
+<h1 id="zeyu-zhang">Zeyu Zhang</h1>
+<p><strong>E-mail: <a href="mailto:&#x7a;&#101;&#x79;&#x75;&#x2e;&#100;&#x2e;&#122;&#104;&#97;&#x6e;&#x67;&#x40;&#111;&#x75;&#116;&#108;&#111;&#x6f;&#107;&#x2e;&#99;&#111;&#x6d;">&#x7a;&#101;&#x79;&#x75;&#x2e;&#100;&#x2e;&#122;&#104;&#97;&#x6e;&#x67;&#x40;&#111;&#x75;&#116;&#108;&#111;&#x6f;&#107;&#x2e;&#99;&#111;&#x6d;</a> | +8617689468368</strong></p>
+<hr>
+<h2 id="education">EDUCATION</h2>
+<ul>
+<li><strong>Shanghai Jiao Tong University, Shanghai, China</strong> (09/2017-03/2020)<ul>
+<li>Professional Master Degree in Software Engineering - GPA: (3.44/4.0)</li>
+</ul>
+</li>
+<li><strong>Wuhan University, Wuhan, China</strong> (09/2013-06/2017)<ul>
+<li>Bachelor Degree in Software Engineering - GPA: (3.70/4.0)</li>
+</ul>
+</li>
+</ul>
+<h2 id="research-interests">RESEARCH INTERESTS</h2>
+<ul>
+<li><strong>Major Field of Research:</strong> User-Space Networking Stack on Cisco&#39;s High-Performance Packet Processing Framework <em>VPP - Vector Packet Processing</em></li>
+<li><strong>Past Research Field in WHU:</strong> Recommendation Algorithm in Trajectory Prediction</li>
+<li><strong>Related Interests:</strong> Networking System Management &amp; Optimatization | Virtualization | Recommendation System</li>
+</ul>
+<h2 id="research-experience--achievements">RESEARCH EXPERIENCE &amp; ACHIEVEMENTS</h2>
+<p><strong><em>Optimization of User-Space Networking Stack on Cisco&#39;s Vector Packet Processing (VPP),</em></strong> Shanghai Jiao Tong University &amp; Intel Shanghai Branch</p>
+<p><strong>08/2018-02/2020</strong></p>
+<p><strong>Labs:</strong></p>
+<ul>
+<li><strong>SDIC Lab</strong> (Software-Defined Infrastructure for Cloud Lab, SJTU) [Website]</li>
+<li><strong>NCLG</strong> (Network and Custom Logic Group, Intel)</li>
+</ul>
+<p><strong>My Advisors:</strong></p>
+<ul>
+<li>Professor <strong>Haibing Guan</strong> (SJTU) (<a href="mailto:&#104;&#x62;&#103;&#x75;&#97;&#110;&#x40;&#x73;&#106;&#x74;&#117;&#x2e;&#101;&#100;&#117;&#x2e;&#99;&#x6e;">&#104;&#x62;&#103;&#x75;&#97;&#110;&#x40;&#x73;&#106;&#x74;&#117;&#x2e;&#101;&#100;&#117;&#x2e;&#99;&#x6e;</a>) [<a href="http://www.cs.sjtu.edu.cn/~hbguan/">Website</a>]</li>
+<li>Associate Professor <strong>Jian Li</strong> (SJTU) [Website]</li>
+<li><strong>Ping Yu</strong> (Technical Lead, Intel) (<a href="mailto:&#x70;&#x69;&#x6e;&#103;&#x2e;&#x79;&#117;&#64;&#105;&#110;&#x74;&#x65;&#108;&#46;&#x63;&#x6f;&#x6d;">&#x70;&#x69;&#x6e;&#103;&#x2e;&#x79;&#117;&#64;&#105;&#110;&#x74;&#x65;&#108;&#46;&#x63;&#x6f;&#x6d;</a>)</li>
+<li><strong>Florin Coras</strong> (VPP Technical Lead, Cisco) (<a href="mailto:&#102;&#x63;&#111;&#x72;&#x61;&#115;&#64;&#99;&#105;&#115;&#99;&#111;&#x2e;&#x63;&#111;&#109;">&#102;&#x63;&#111;&#x72;&#x61;&#115;&#64;&#99;&#105;&#115;&#99;&#111;&#x2e;&#x63;&#111;&#109;</a>)</li>
+</ul>
+<p><strong>My Topic:</strong> Optimized NGINX based on VPP to increase its throughput, achieve good scalability, reduce latency and reduce CPU usage.</p>
+<p><strong>What is FD.io VPP (Excerpted from My Paper):</strong></p>
+<ul><li>
+<details>
+<summary><i>Click Here to View More</i></summary>
+<p>FD.io VPP (Vector Packet Processing), adopting the novel application-networking-separated process model, is a high-performance user-space packet processing framework built on DPDK, providing a full L2-L7 user-space networking stack. FD.io VPP leverages Vector Packet Processing to process a batch of packets at a time through a set of pluggable graph function nodes, with the goal of optimizing i-cache and d-cache locality. The networking functionality of FD.io VPP is put into an ordinary Linux user-space process. Multiple network applications can use VPP LDP API without modifying source code to utilize the networking functionality provided by VPP process at the same time over user-space lock-free shared memory queues. Such approach decouples the release of new networking functionality from both kernel and application binary release cycles and decouples application threading and CPU provisioning from network service.</p>
+<p>Moreover, at VPP process side, the packet processing pipeline in VPP can be organized as a packet processing graph. Each graph node in the graph acts as agraph function node that performs a speciﬁc packet processing task. Anyone can add custom graph function nodes into the packet processing graph toperformspeciﬁccustomizedtasksondemand,enablingVPP to be extensible. Alongside the packet processing graph nodes, a batch of packets assembled from RX rings are processed together, with the aim of optimizing i-cache and d-cache locality. Such modular design makes it easy for developers to upgrade networking functionality in VPP networking stack.</p>
+</details>
+</li></ul>
+<p><strong>My Experience:</strong></p>
+<ul><li>
+<details>
+<summary><i>Click Here to View More</i></summary>
+<p>I was enrolled in this project during summer in 2018 right after all graduate courses were finished. At the first half period of this project I worked in SDIC lab, cooperating with Ping Yu, technical lead in Intel Shanghai branch. My work was to evaluate the performance of VPP user-space networking stack. So NGINX was what I chose to conduct this experiment. But experiment results were worse than I expected when I integrated VPP into NGINX. Bad scalability, full CPU usage, and higher request latency than native NGINX all came into my eyes. Hence my main work since then was to find the causes and resolve those problems. During that time I usually talked with Ping Yu and Florin Coras, VPP technical lead in Cisco, about what I found interfering with VPP performance. As work progressed I began taking an internship at Intel on June 3rd in 2019 and finished all my work in December.</p>
+</details>
+</li></ul>
+<p><strong>My Contributions:</strong></p>
+<ul>
+<li><strong>VPPNGX: A VPP Based High-Performance NGINX Implementation,</strong> which includes following contributions:<ul>
+<li><strong>VPP session index passthrough:</strong> In cases where no session (= user-space socket) is shared, removing locked session layer of FD.io VPP which exerts negative impacts on the <strong>scalability</strong> of VPPNGX and increases the <strong>latency</strong>.</li>
+<li><strong>Token-based lock-free order preserving approach for control event messages:</strong> Without locked session layer of FD.io VPP, the metadata of control event messages in VPP event queue may be out of order. This approach is to preserve the order of metadata of control event messages after removing locked session layer without re-introducing giant lock.</li>
+<li><strong>User-space unified blocking epoll:</strong> In NGINX part, in order to optimize the busy-wait polling epoll that leads to full CPU usage all the time and increases context switch, the user-space unified blocking epoll for VPPNGX is proposed to manage user-space and kernel epoll events together, enabling NGINX workers of VPPNGX to <strong>reduce CPU usage</strong> when load is low and to avoid trapping into kernel for kernel epoll checking.</li>
+<li><strong>Evaluation:</strong> VPPNGX achieves 3.33x higher throughput in RPS (requests per second) than native NGINX. It is capable of scaling up RPS well and better than original VPP based NGINX. The latency of VPPNGX is 46.7%, 34.1%, and 25.3% lower than that of F-Stack NGINX, original VPP-based NGINX, and native NGINX. It is also able to reduce CPU usage when load is low as well as context switch for kernel epoll checking.</li>
+</ul>
+</li>
+<li><strong>Note: Those contributions have been written into a finished paper by myself, but it has not been published yet. I originally planned to submit my paper to NSDI in 2020, but when I graduated with a professional master&#39;s degree, this paper was taken over by other students in SDIC lab for further work.</strong></li>
+<li>View paper abstract. | View part of my unpublished paper.</li>
+<li>If you want to know more about my paper and work, contact me via e-mail.</li>
+</ul>
+<hr>
+<p><strong><em>Identification of Mobile Consumer Group Project,</em></strong> Wuhan University</p>
+<p><strong>03/2016-07/2017</strong></p>
+<p><strong>Lab</strong></p>
+<ul>
+<li>BDCC Lab (Big Data and Cloud Computing Lab, WHU) [<a href="http://bdcclab.com/index_en.htm">Website</a>]</li>
+</ul>
+<p><strong>My Advisors:</strong></p>
+<ul>
+<li>Professor <strong>Xiaohui Cui</strong> (WHU) (<a href="mailto:&#x78;&#x63;&#117;&#x69;&#x40;&#x77;&#104;&#x75;&#x2e;&#101;&#x64;&#x75;&#46;&#99;&#110;">&#x78;&#x63;&#117;&#x69;&#x40;&#x77;&#104;&#x75;&#x2e;&#101;&#x64;&#x75;&#46;&#99;&#110;</a>) [<a href="https://www.researchgate.net/profile/Xiaohui_Cui3">Website</a>]</li>
+<li>Associate Professor <strong>Weiping Zhu</strong> (WHU) (<a href="mailto:&#x77;&#112;&#x7a;&#x68;&#x75;&#64;&#119;&#104;&#117;&#46;&#101;&#x64;&#x75;&#46;&#x63;&#110;">&#x77;&#112;&#x7a;&#x68;&#x75;&#64;&#119;&#104;&#117;&#46;&#101;&#x64;&#x75;&#46;&#x63;&#110;</a>) [<a href="http://bdcclab.com/wpzhu/en.htm">Website</a>]</li>
+</ul>
+<p><strong>Group Topic:</strong> Made accurate identification of consumer groups in shopping malls using motion sensors on Android phones and indoor Wi-Fi location. Promoted the maximization of merchants&#39; profits by predicting consumer groups&#39; group behavior.</p>
+<p><strong>My Contributions:</strong></p>
+<ul>
+<li>In charge of collecting and analyzing Wi-Fi and motion data, then tracking and predicting the consumers&#39; indoor trajectory.</li>
+<li>Designed an improved Apriori Algorithm that was able to conduct trajectory prediction efficiently, thus to obtain the probability of a consumer’s future locations in a large shopping mall.</li>
+<li><strong>As the first author, published paper &quot;Location and Motion Prediction of Consumers in a Large Shopping Mall&quot;. See more info about this paper in PUBLICATION below.</strong></li>
+</ul>
+<h2 id="publication">PUBLICATION</h2>
+<p><strong>Zhang, Zeyu</strong>, and Weiping Zhu. &quot;Location and Motion Prediction of Consumers in a Large Shopping Mall.&quot; In 2017 Fifth International Conference on Advanced Cloud and Big Data (CBD), pp. 250-255. IEEE, 2017. [<a href="http://bdcclab.com/wpzhu/fundation/LocationMotionPredictionConsumersInShoppingMall1-3.pdf">PDF</a>]</p>
+<h2 id="patent">PATENT</h2>
+<p>A Network Request Processing System and Method (Jian Li, <strong>Zeyu Zhang</strong>, Haibing Guan) (Chinese Patent Number: 202010059255.0)</p>
+<h2 id="internship-experience">INTERNSHIP EXPERIENCE</h2>
+<p>Intel, Shanghai Branch (Linux Software Developer) === 06/2019-10/2019</p>
+<h2 id="honors-and-awards">HONORS AND AWARDS</h2>
+<ul>
+<li>Outstanding Graduate, Shanghai Jiao Tong University, 03/2020</li>
+<li>Merit Student, Shanghai Jiao Tong University, 10/2018</li>
+<li>Outstanding Student, Wuhan University, 12/2016</li>
+<li>Excellent Camper in Remarkable Youth Summer Camp, University of Science and Technology of China, 07/2016</li>
+<li>Outstanding Student, Wuhan University, 12/2015</li>
+<li>Active Participant in University Community Activities, Wuhan University, 04/2015</li>
+<li>Advanced Individual in Summer Social Practice, Wuhan University, 01/2015</li>
+<li>Outstanding Student, Wuhan University, 12/2014</li>
+</ul>
